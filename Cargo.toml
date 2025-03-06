@@ -1,0 +1,10 @@
+[package]
+name = "Computing_the_j_Invariant_in_Rust_Using_Complex_Arithmetic_and_Modular_Functions"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4"
+num-complex = "0.4"
+num-traits = "0.2"
+
